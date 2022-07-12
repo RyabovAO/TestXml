@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CatalogURL>
+    <URL>
+        <page
+           name = "MainPage" value = "https://store.steampowered.com/">
+        </page>
+        <page
+           name = "AboutPage" value = "https://store.steampowered.com/about/">
+        </page>
+    </URL>
+</CatalogURL>
