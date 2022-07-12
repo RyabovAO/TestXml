@@ -14,6 +14,8 @@ import java.io.IOException;
 
 public class XmlReader {
 
+
+
     public String getXmlValue(String name, int ind) throws ParserConfigurationException, IOException, SAXException {
         String s ="";
         File file = new File("test.xml");
